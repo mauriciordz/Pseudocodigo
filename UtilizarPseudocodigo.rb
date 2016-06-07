@@ -33,3 +33,4 @@ def best_students(students) #Se define un metodo llamado best_students que recib
 end 
 
 p best_students(students) == ["Deborah","D'angelo","Theodora","Hilma","Lina"] ## imprimios el metodo best_students pidiento un argumento de alumnos que es un array declarado anteriormente.
+p
